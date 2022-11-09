@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* CSS for the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,7 +19,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Changes color of letters in Title Horiseon. */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Main picture at top of website. */
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +74,7 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* This is the CSS for the side section. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -119,7 +119,7 @@ main {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* This is the CSS for the footer. */
 .footer {
     padding: 30px;
     clear: both;
