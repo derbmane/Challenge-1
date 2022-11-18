@@ -20,8 +20,9 @@ body {
     font-size: 48px;
 }
 /* Changes color of letters in Title Horiseon. */
-.header h1 .seo {
+.header h1 .Construction {
     color: #d9dcd6;
+    font-size: 20px;
 }
 
 .header nav {
